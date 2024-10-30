@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Nyasha Madzokere
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Shopify and IOS Developer 
+![Shopify and IOS Developer ]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: SHOPIFY / REACT / JS / HTML / CSS /
+Skills: SHOPIFY / REACT / JS / HTML / CSS 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Quiz App 
 - 🌱 I’m currently learning Remix 
-- 👯 I’m looking to collaborate on Opensouce 
+- 👯 I’m looking to collaborate on Opensource 
+- 🤔 I’m looking for help with Swift 
 - 💬 Ask me about Shopify 
 - 📫 How to reach me: madzokeren@gmail.com 
 
